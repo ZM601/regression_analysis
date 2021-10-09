@@ -18,6 +18,9 @@
 * W7 : Panel Data (longtitudinal data) Modelling
 * W8 : Treatment effects
 * W9 : Maximum Likelihood Estimation and Numerical Methods
-* W0 : Classification (aks discrete choice modelling)
-* W1 : Generalization of Classification : linear models with limited dependent variables
-* W2 : Generalization of Classification :  Machine Learning algorithms
+* W10 : Classification (aks discrete choice modelling)
+* W11 : Generalization of Classification : linear models with limited dependent variables
+* W12 : Generalization of Classification :  Machine Learning algorithms
+* A1 : Assignment 1
+* A2 : Assignment 2
+* Q1, Q2, etc : illustration of GLM
