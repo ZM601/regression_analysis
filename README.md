@@ -21,6 +21,5 @@
 * W10 : Classification (aka discrete choice modelling)
 * W11 : Generalization of Classification : linear models with limited dependent variables
 * W12 : Generalization of Classification :  Machine Learning algorithms
-* A1 : Assignment 1
-* A2 : Assignment 2
+* A1, A2: Assignment 1 and 2
 * Q1, Q2, etc : illustration of GLM
